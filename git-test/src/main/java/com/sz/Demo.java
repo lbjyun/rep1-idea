@@ -18,6 +18,7 @@ public class Demo {
         System.out.println("hello sz ");
         System.out.println("hello sz ");
 
+        System.out.println("今晚打老虎");
         method();
     }
 
@@ -26,5 +27,7 @@ public class Demo {
         int j=20;
 
         System.out.println(i+j);
+
+        //System.out.println("");
     }
 }
